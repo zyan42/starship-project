@@ -1,3 +1,4 @@
+
 align = 150
 divider = (66 * '-').center(align)  # heading's settings
 divider2 = (30 * '*').center(align)
@@ -10,7 +11,7 @@ print(divider)
 print('\n')
 
 # 3 lists
-names = ['manish', 'jayant', 'salman', 'john', 'sidhart', 'david']
+names = ['manish', 'jayant', 'aditya', 'jon snow', 'shivam', 'david']
 marks = [99, 74, 66, 34, 22, 18]
 rank = []
 
